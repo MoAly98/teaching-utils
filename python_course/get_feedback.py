@@ -56,7 +56,7 @@ def main():
         if feedback is None:
             print(f"Could not find feedback for {student}, skipping")
             continue
-        feedbackpoints = feedback.split(",")
+        feedbackpoints = feedback.split("|")
         with open(f'{outdir}/{student}.txt', 'w') as outf:
             for feedback_pt in feedbackpoints:
                 feedback_pt_stripped = feedback_pt.strip()
