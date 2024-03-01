@@ -114,16 +114,16 @@ The output of the last step will be a directory containing one text file per use
 
 Once you are ready to upload your marks, you can use blackboard smart views to upload your mark and feedbacks a bit faster than searching for your students' username in a list of 300 students...
 
-1- Grade Centre -> Full Grade Centre
-2- Manage -> Smart Views
-3- Create Smart View
-4- Choose name that reflects who you are (last name) and which assignment is this (1 or 2) -- You may also want to have 2 smart views, one for primary and one for secondary.
-5- Go to `Selection Criteria` field and choose `custom`
-6- Change `User Criteria` to `Username` and add one student's username in the `Value` field
-7- Press `Add User Criteria` and repeat for all your students
-8- When done go to `Formula Editor` section and press `Manually Edit`. Change each `AND` to `OR`.
-9- In `Filter Results` section, use drop-down menu to choose `All Columns`
-10- Press `Submit`
+1. Grade Centre -> Full Grade Centre
+2. Manage -> Smart Views
+3. Create Smart View
+4. Choose name that reflects who you are (last name) and which assignment is this (1 or 2) -- You may also want to have 2 smart views, one for primary and one for secondary.
+5. Go to `Selection Criteria` field and choose `custom`
+6. Change `User Criteria` to `Username` and add one student's username in the `Value` field
+7. Press `Add User Criteria` and repeat for all your students
+8. When done go to `Formula Editor` section and press `Manually Edit`. Change each `AND` to `OR`.
+9. In `Filter Results` section, use drop-down menu to choose `All Columns`
+10. Press `Submit`
 
 
 Now if you click on the smart view you created, you will only see your students and you will be able to just click through your students in order to upload your marks and feedback.
