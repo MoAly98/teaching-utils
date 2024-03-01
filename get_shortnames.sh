@@ -33,7 +33,7 @@ CURRENT_DIR=$PWD
 cd $DIR
 ls -1 "$IDENTIFIER"*.py | awk -v START_IDX="$START_IDX" -v LEN_UID="$LEN_UID" '{print("cp \""$0"\" "substr($0,START_IDX,LEN_UID)"_ip.py")}' > shorten.sh; chmod +x shorten.sh ;
 ./shorten.sh
-rm xx.sh
+rm shorten.sh
 
 echo "Copying over to $DIR/shortnames/"
 mkdir -p shortnames/
