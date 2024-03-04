@@ -8,12 +8,12 @@ You can get code by simply running `git clone` for this repository or downloadin
 
 You should start by downloading assignment files for all students from blackboard.
 
-1- Grade Centre -> Full Grade Centre
-2- Find the column for your assignment and press on gray arrow
-3- Choose `Assignment File Download`
-4- Scroll down to `SELECT FILES` and choose `All attempt files`
-5- Scroll up and select all students
-6- Press `Submit`
+1. Grade Centre -> Full Grade Centre
+2. Find the column for your assignment and press on gray arrow
+3. Choose `Assignment File Download`
+4. Scroll down to `SELECT FILES` and choose `All attempt files`
+5. Scroll up and select all students
+6. Press `Submit`
 
 
 This will download a directory with the assignment scripts for *All* students on the course.
