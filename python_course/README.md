@@ -51,8 +51,8 @@ If the username structure changes completely, or you want to reuse this in anoth
 
 Once you have a folder with files called `<username>_ip.py`, the next step is to filter these to get the assignments you need to mark. I will assume these are split into 2 groups: primary and secondary.
 
-1- Copy the list of usernames from marking sheet for each group into a separate file (`primary.txt` and `secondary.txt`)
-2- Run the `get_my_assign.sh` code with
+1. Copy the list of usernames from marking sheet for each group into a separate file (`primary.txt` and `secondary.txt`)
+2. Run the `get_my_assign.sh` code with
 
     ```
     source get_my_assign.sh primary.txt <INDIR> <OUTDIR>/primary/
